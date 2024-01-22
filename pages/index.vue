@@ -1,5 +1,11 @@
+<script setup>
+    useHead({
+        title:"Cartrader"
+    })
+</script>
+
 <template>
-    <div>
-        hello at the home page
+    <div class="mainNav">
+        <CarHero/>
     </div>
 </template>
